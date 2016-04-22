@@ -1,7 +1,6 @@
-# datasciencecoursera-gettingAndCleaningData
 # Coursera Course 3: Getting and Cleaning Data Repo
 
-## Week 4 Project
+## Week 4 Project Summary
 
 We should create one R script called run_analysis.R that does the following:
 
